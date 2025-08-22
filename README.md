@@ -99,15 +99,33 @@ Interactive portfolio showcasing the perfect blend of creativity and technology.
 ## 📊 GitHub Analytics
 
 <div align="center">
+
+![GitHub Stats Animation](https://img.shields.io/badge/📊_GitHub-Analytics-58A6FF?style=for-the-badge&labelColor=0D1117)
+
+</div>
+
+<div align="center">
+<table>
+<tr>
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=aishwary2316&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+</td>
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishwary2316&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
+</td>
+</tr>
+</table>
+</div>
+
+<div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=aishwary2316&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishwary2316&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="170" />
+<img src="https://streak-stats.demolab.com?user=aishwary2316&theme=tokyonight&hide_border=true" height="165" />
 
 </div>
 
 <div align="center">
   
-<img src="https://streak-stats.demolab.com?user=aishwary2316&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF7B72&currStreakLabel=C9D1D9" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=aishwary2316&theme=tokyonight&hide_border=true&layout=compact" height="165" />
 
 </div>
 
@@ -144,7 +162,7 @@ Interactive portfolio showcasing the perfect blend of creativity and technology.
 
 ## 🎯 Current Mission
 
-<div align="left">
+<div align="center">
 
 ```javascript
 const aishwary = {
