@@ -144,7 +144,7 @@ Interactive portfolio showcasing the perfect blend of creativity and technology.
 
 ## 🎯 Current Mission
 
-<div align="center">
+<div align="left">
 
 ```javascript
 const aishwary = {
