@@ -125,7 +125,7 @@ Interactive portfolio showcasing the perfect blend of creativity and technology.
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=aishwary2316&theme=tokyonight&hide_border=true&layout=compact" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aishwary2316&theme=tokyonight" width="100%" />
 
 </div>
 
